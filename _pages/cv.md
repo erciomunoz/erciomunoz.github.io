@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-# Education: 
+Education: 
 =====
 * Ph.D. student in Economics, Graduate Center at CUNY
 * M.A. in Economics, Georgetown University
 * M.Sc. in Finance, Universidad de Chile
 * B.A. in Economics, Universidad de Chile
 
-# Work Experience:
+Work Experience:
 =====
 * The World Bank
   * Consultant at the Macroeconomics, Trade & Investment Unit, July 2018-
