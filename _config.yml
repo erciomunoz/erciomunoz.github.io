@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Ercio Munoz"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Ercio Munoz"
+description              : &description "Ph.D. student at CUNY Graduate Center"
 url                      : https://erciomunoz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "erciomunoz/erciomunoz.github.io"
@@ -84,7 +84,7 @@ author:
   bio              : "Ph.D. student at CUNY Graduate Center"
   location         : "Location"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.cl/citations?user=gZoeQ40AAAAJ&hl=en"
   email            :
   uri              :
   bitbucket        :
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "erciomunoz"
   google_plus      :
   keybase          :
   instagram        :
