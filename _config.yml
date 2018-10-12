@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Ercio Munoz"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -79,9 +79,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ercio Munoz"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. student at CUNY Graduate Center"
   location         : "Location"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
