@@ -29,10 +29,4 @@ Work Experience:
 * Central Bank of Chile
   *Economic and financial analyst at the Research Division, Feb 2010-Aug 2014
 
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+ 
