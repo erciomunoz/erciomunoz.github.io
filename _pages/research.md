@@ -22,8 +22,8 @@ My IDEAS website here and my SSRN website here
 * Inequality in Latin America: Learning from matched employer-employee data (with G. Rucci, F. Saltiel, and S. Urzua)
 * The Short-term Impact on GDP of "Bachelet's Reforms"
 
-* Pre-Doctoral
-* Peer Reviewed:
+# Pre-Doctoral
+# Peer Reviewed:
 
 * Ex-Dividend Date Stock Behavior and the Clientele Effect: Evidence around a Tax Reduction. Global Finance Journal, Vol. 32, February 2017. (with A. Rodriguez) 
 * The Effect of Growth Surprises in China on the Price of Copper. Journal the Chilean Economy, Vol. 17 N° 3, 2014.
@@ -40,9 +40,3 @@ My IDEAS website here and my SSRN website here
 * Long Term Interest Rates and Fiscal Policy. Working Paper Nº 633, 2010, Central Bank of Chile. (with E. López and V. Riquelme)
 * Structural Reforms and Total Factor Productivity. MPRA 37362, 2009, University Library of Munich. 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
