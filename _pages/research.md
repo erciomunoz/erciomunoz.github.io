@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My IDEAS website [here](https://ideas.repec.org/f/pmu357.html) and my SSRN website [here](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1614662)
+My IDEAS website [\textbf{here}](https://ideas.repec.org/f/pmu357.html) and my SSRN website [here](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1614662)
 
 # Work in Progress (titles subject to change):
 
