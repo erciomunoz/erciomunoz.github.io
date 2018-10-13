@@ -27,6 +27,6 @@ Work Experience:
 * The World Bank
   * Consultant at the Development Research Group, Mar 2016-Aug 2016
 * Central Bank of Chile
-  *Economic and financial analyst at the Research Division, Feb 2010-Aug 2014
+  * Economic and financial analyst at the Research Division, Feb 2010-Aug 2014
 
  
