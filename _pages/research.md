@@ -1,9 +1,11 @@
 ---
 permalink: /
 title: ""
+excerpt: "Research"
 author_profile: true
-redirect_from:
-  - /research
+redirect_from: 
+  - /research/
+  - /research.html
 ---
 
 My IDEAS website [here](https://ideas.repec.org/f/pmu357.html) and my SSRN website [here](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1614662).
