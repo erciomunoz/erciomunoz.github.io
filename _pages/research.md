@@ -21,7 +21,7 @@ My IDEAS website [here](https://ideas.repec.org/f/pmu357.html) and my SSRN websi
 
 # Working Papers:
 
-* Inequality in Latin America: Learning from matched employer-employee data (with G. Rucci, F. Saltiel, and S. Urzua)
+* Inequality in Latin America: Learning from matched employer-employee data (with G. Rucci, F. Saltiel, and S. Urzua) Submitted
 * The Short-term Impact on GDP of "Bachelet's Reforms"
 
 # Pre-Doctoral
