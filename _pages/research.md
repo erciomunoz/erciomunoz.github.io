@@ -27,8 +27,10 @@ My IDEAS website [here](https://ideas.repec.org/f/pmu357.html) and my SSRN websi
 # Pre-Doctoral
 # Peer Reviewed:
 
-* Ex-Dividend Date Stock Behavior and the Clientele Effect: Evidence around a Tax Reduction. Global Finance Journal, Vol. 32, February 2017. (with A. Rodriguez) 
-* The Effect of Growth Surprises in China on the Price of Copper. Journal the Chilean Economy, Vol. 17 N° 3, 2014.
+* Ex-Dividend Date Stock Behavior and the Clientele Effect: Evidence around a Tax Reduction. 
+Global Finance Journal, Vol. 32, February 2017. (with A. Rodriguez) 
+* The Effect of Growth Surprises in China on the Price of Copper. 
+Journal the Chilean Economy, Vol. 17 N° 3, 2014.
 * Do Commodity Prices Shocks Have an Impact on Latin American Stock Markets?. Journal the Chilean Economy, Vol. 16 N° 3, 2013. (with M. Siravegna)
 * Commodity Prices and Sovereign Spreads in Emerging Economies. Does Export Concentration Matter?. Journal the Chilean Economy, Vol. 16 N°1, 2013.
 * Using a FAVAR Model for Forecasting Copper Prices. Journal the Chilean Economy, Vol. 15 N° 3, 2012. (with P. Cruz)
