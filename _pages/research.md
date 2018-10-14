@@ -1,11 +1,13 @@
 ---
-permalink: /
+layout: archive
 title: ""
-excerpt: "Research"
+permalink: /research/
 author_profile: true
-redirect_from: 
-  - /research/
+redirect_from:
+  - /research
 ---
+
+{% include base_path %}
 
 My IDEAS website [here](https://ideas.repec.org/f/pmu357.html) and my SSRN website [here](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1614662).
 
