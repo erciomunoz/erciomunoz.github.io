@@ -15,13 +15,13 @@ My IDEAS website [here](https://ideas.repec.org/f/pmu357.html) and my SSRN websi
 
 # Work in Progress (titles subject to change):
 
-* Campaign Rules and Incumbency Advantage
-* Corruption and Electoral Performance (with N. Rodriguez-Planas)
-* Pre-testing for Unobserved Cluster Effects and Inference in Panel Data Sets (with W. Vijverberg)
+* Campaign Rules and Incumbency Advantage.
+* Corruption and Electoral Performance. (with N. Rodriguez-Planas)
+* Pre-testing for Unobserved Cluster Effects and Inference in Panel Data Sets. (with W. Vijverberg)
 
 # Working Papers:
 
-* Inequality in Latin America: Learning from matched employer-employee data (with G. Rucci, F. Saltiel, and S. Urzua) Submitted (Draft available upon request)
+* Inequality in Latin America: Learning from matched employer-employee data. Submitted. (with G. Rucci, F. Saltiel, and S. Urzua)
 * The Short-term Impact on GDP of "Bachelet's Reforms"
 
 # Pre-Doctoral
