@@ -23,7 +23,7 @@ My IDEAS website [here](https://ideas.repec.org/f/pmu357.html) and my SSRN websi
 
 * Inequality in Latin America: Learning from matched employer-employee data. Submitted. (with G. Rucci, F. Saltiel, and S. Urzua)
 * The Short-term Impact on GDP of "Bachelet's Reforms".
-* kmr: A Command to Correct Survey Weights for Unit Nonresponse using Group's Response Rates (with S. Morelli)
+* kmr: A Command to Correct Survey Weights for Unit Nonresponse using Group's Response Rates. (with S. Morelli)
 
 # Pre-Doctoral
 # Peer Reviewed:
