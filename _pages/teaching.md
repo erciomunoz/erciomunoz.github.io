@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 * Adjunct Lecturer, City College of New York
-  * Introduction to econometrics. Fall 2017-18, and Spring 2018
+  * Introduction to econometrics. Fall 2017-18, and Spring 2018 [[syllabus]](http://erciomunoz.github.io/files/syllabus_fall2018.pdf)
 * Lecturer, Universidad de Santiago
   * Introduction to macroeconomics. Spring 2014
 * Lecturer, Universidad SEK
