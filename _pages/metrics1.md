@@ -1,15 +1,13 @@
 ---
-title: Chapter 4 & 5 - Linear Regression, Hypothesis Test, and Confidence Interval
-  with One Regressor
-author: "Ercio Munoz"
-date: "September 19, 2018"
-output:
-  html_document: default
+layout: archive
+title: ""
+permalink: /metrics1/
+author_profile: true
+redirect_from:
+  - /Resume
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+{% include base_path %}
 
 ### Linear Regression with one regressor
 
