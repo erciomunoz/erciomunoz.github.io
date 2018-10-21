@@ -21,7 +21,7 @@ where $y_i$ represents testscr of school $\textit{i}$, $x_i$ represents STR of s
 
 First, we import the data set from the web site, and given that it is formatted for Stata (.dta), we need to first install the package "foreign" (it allow us to use data formatted for another econometric software) using "install.packages()" command (from now on we will omit this and we will just call the package assuming we have installed it before):
 
-```{r eval=FALSE}
+```{r}
 install.packages("foreign")
 ```
 
