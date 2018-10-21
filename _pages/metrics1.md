@@ -27,7 +27,7 @@ install.packages("foreign")
 
 Now we call the package using the command "library()" and import the data set as a data.frame object using the command "read.dta()":
 
-```{r warning=FALSE, message=FALSE}
+```{r}
 library(foreign)
 a = "http://fmwww.bc.edu/ec-p/data/stockwatson/caschool.dta"
 data_set = read.dta(a)
@@ -37,14 +37,14 @@ class(data_set)
 
 We should be able to see an object called "data_set" in the environment (upper-right side of R-studio). We can check some descriptive statistics of its content using the commands "summary()" or look at the first 6 observations of each variable using the command "head()":
 
-```{r warning=FALSE, message=FALSE}
+```{r}
 summary(data_set)
 head(data_set)
 ```
 
 We can use a plot to check graphically whether it appears to be a relationship between the two variables of interest (Note that the command "attach()" tells R that we are going to use a particular data.frame, so we can use directly the names of the variables inside the data.frame):
 
-```{r warning=FALSE, message=FALSE}
+```{r}
 # Scatter plot 
 attach(data_set)
 plot(str,testscr)
