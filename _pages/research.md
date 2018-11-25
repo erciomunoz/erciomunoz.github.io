@@ -13,14 +13,16 @@ redirect_from:
 
 My IDEAS website [here](https://ideas.repec.org/f/pmu357.html) and my SSRN website [here](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1614662).
 
-# Work in Progress (titles subject to change):
+# Selected Work in Progress (titles subject to change):
 
-* **Campaign Rules and Incumbency Advantage.**
+* **Are Budget Rigidities a Source of Fiscal Distress and a Constraint to Fiscal Consolidation?** (E. Olaberria)
 * **Corruption and Electoral Performance.** (with N. Rodriguez-Planas)
 * **Pre-testing for Unobserved Cluster Effects and Inference in Panel Data Sets.** (with W. Vijverberg)
+* **kmr: A Command to Correct Survey Weights for Unit Nonresponse using Group's Response Rates.** (with S. Morelli)
 
 # Working Papers:
 
+* **Campaign Rules and Incumbency Advantage.** [draft available upon request]
 * **Firms and Labor Earnings Inequality in Chile.** [draft available upon request]
 * **Inequality in Latin America: Learning from matched employer-employee data.** Submitted. (with G. Rucci, F. Saltiel, and S. Urzua) [[draft]](http://erciomunoz.github.io/files/Inequality_in_latam.pdf)
 * **The Short-term Impact on GDP of "Bachelet's Reforms".** [[draft]](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3266178_code1614662.pdf?abstractid=3216795) [[plot]](http://erciomunoz.github.io/files/main_comm_a.pdf)
