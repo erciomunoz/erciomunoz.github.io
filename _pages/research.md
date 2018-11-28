@@ -16,7 +16,6 @@ My IDEAS website [here](https://ideas.repec.org/f/pmu357.html) and my SSRN websi
 # Selected Work in Progress (titles subject to change):
 
 * **Campaign Rules and Incumbency Advantage.** 
-* **Are Budget Rigidities a Source of Fiscal Distress and a Constraint to Fiscal Consolidation?** (with E. Olaberria)
 * **Corruption and Electoral Performance.** (with N. Rodriguez-Planas)
 * **Pre-testing for Unobserved Cluster Effects and Inference in Panel Data Sets.** (with W. Vijverberg)
 * **kmr: A Command to Correct Survey Weights for Unit Nonresponse using Group's Response Rates.** (with S. Morelli)
