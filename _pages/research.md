@@ -17,7 +17,7 @@ My IDEAS website [here](https://ideas.repec.org/f/pmu357.html) and my SSRN websi
 
 * **Campaign Rules and Incumbency Advantage.** 
 * **Corruption and Electoral Performance.** (with N. Rodriguez-Planas)
-* **Are Budget Rigidities a Source of Fiscal Distress and a Constraint for Fiscal Consolidation?** (E. Olaberria)
+* **Are Budget Rigidities a Source of Fiscal Distress and a Constraint for Fiscal Consolidation?** (with E. Olaberria)
 * **Pre-testing for Unobserved Cluster Effects and Inference in Panel Data Sets.** (with W. Vijverberg)
 * **kmr: A Command to Correct Survey Weights for Unit Nonresponse using Group's Response Rates.** (with S. Morelli)
 
