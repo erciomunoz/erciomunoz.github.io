@@ -19,10 +19,10 @@ My IDEAS website [here](https://ideas.repec.org/f/pmu357.html) and my SSRN websi
 * **Corruption and Electoral Performance.** (with N. Rodriguez-Planas)
 * **Are Budget Rigidities a Source of Fiscal Distress and a Constraint for Fiscal Consolidation?** (with E. Olaberria)
 * **Pre-testing for Unobserved Cluster Effects and Inference in Panel Data Sets.** (with W. Vijverberg)
-* **kmr: A Command to Correct Survey Weights for Unit Nonresponse using Group's Response Rates.** (with S. Morelli)
 
 # Working Papers:
 
+* **kmr: A Command to Correct Survey Weights for Unit Nonresponse using Group's Response Rates.** (with S. Morelli) [draft available upon request]
 * **Firms and Labor Earnings Inequality in Chile.** [draft available upon request]
 * **Inequality in Latin America: Learning from matched employer-employee data.** Submitted. (with G. Rucci, F. Saltiel, and S. Urzua) [[draft]](http://erciomunoz.github.io/files/Inequality_in_latam.pdf)
 * **The Short-term Impact on GDP of "Bachelet's Reforms".** [[draft]](http://erciomunoz.github.io/files/Draft_Oct24.pdf) [[plot]](http://erciomunoz.github.io/files/main_comm_a.pdf)
