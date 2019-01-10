@@ -16,6 +16,7 @@ My IDEAS website [here](https://ideas.repec.org/f/pmu357.html) and my SSRN websi
 # Selected Work in Progress (titles subject to change):
 
 * **Campaign Rules and Incumbency Advantage.** 
+* **Does Women Success Empower Other Women in Politics? Evidence from Chilean Municipalities.** (with M. Siravegna)
 * **Corruption and Electoral Performance.** (with N. Rodriguez-Planas)
 * **Are Budget Rigidities a Source of Fiscal Distress and a Constraint for Fiscal Consolidation?** (with E. Olaberria)
 * **Pre-testing for Unobserved Cluster Effects and Inference in Panel Data Sets.** (with W. Vijverberg)
