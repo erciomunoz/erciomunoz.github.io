@@ -23,7 +23,7 @@ My IDEAS website [here](https://ideas.repec.org/f/pmu357.html) and my SSRN websi
 
 # Working Papers:
 
-* **kmr: A Command to Correct Survey Weights for Unit Nonresponse using Group's Response Rates.** (with S. Morelli) [draft available upon request] [[code]](https://github.com/erciomunoz/kmr) 
+* **kmr: A Command to Correct Survey Weights for Unit Nonresponse using Group's Response Rates.** (with S. Morelli) [[draft]](https://github.com/erciomunoz/erciomunoz.github.io/blob/master/files/Draft.pdf) [[code]](https://github.com/erciomunoz/kmr) 
 * **Firms and Labor Earnings Inequality in Chile.** [draft available upon request]
 * **Inequality in Latin America: Learning from matched employer-employee data.** Submitted. (with G. Rucci, F. Saltiel, and S. Urzua) [[draft]](http://erciomunoz.github.io/files/Inequality_in_latam.pdf)
 * **Did They Hurt Growth? A Synthetic Control Estimate of the Impact of “Bachelet’s Reforms”.** [[draft]](http://erciomunoz.github.io/files/Draft_scm_chile.pdf) [[plot]](http://erciomunoz.github.io/files/main_comm_a.pdf)
