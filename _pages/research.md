@@ -22,7 +22,7 @@ My IDEAS website [here](https://ideas.repec.org/f/pmu357.html) and my SSRN websi
 
 # Working Papers:
 
-* **Does Women Success Empower Other Women in Politics? Evidence from Chilean Local Elections.** (with M. Siravegna) [draft available upon request]
+* **Do Succesful Women Empower Other Women in Politics? Evidence from Chilean Local Elections.** (with M. Siravegna) [draft available upon request]
 * **kmr: A Command to Correct Survey Weights for Unit Nonresponse using Group's Response Rates.** (with S. Morelli) [[draft]](http://erciomunoz.github.io/files/Draft.pdf) [[code]](https://github.com/erciomunoz/kmr) 
 * **Firms and Labor Earnings Inequality in Chile.** [draft available upon request]
 * **Inequality in Latin America: Learning from matched employer-employee data.** (with G. Rucci, F. Saltiel, and S. Urzua) [[draft]](http://erciomunoz.github.io/files/Inequality_in_latam.pdf)
