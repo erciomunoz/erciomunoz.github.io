@@ -31,7 +31,9 @@ My IDEAS website [here](https://ideas.repec.org/f/pmu357.html) and my SSRN websi
 <summary>
 <i> abstract </i>
 </summary>
-<p>It's because the details block is html5. If you want to modify it your best bet is using html5. </p>
+<p>This paper uses the synthetic control method to estimate the short-term impact on GDP of the reforms implemented between 2014 and 2017 in Chile by the government of President Michelle Bachelet.
+I find a cumulative fall by the end of 2017 of 13% relative to the synthetic counterfactual. This result is robust to the use of a donor pool that includes economies for which primary commodities are relevant, as well as one that
+only includes OECD countries. </p>
 </details>
 
 # Pre-Doctoral
