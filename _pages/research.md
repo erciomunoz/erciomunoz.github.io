@@ -26,11 +26,8 @@ My IDEAS website [here](https://ideas.repec.org/f/pmu357.html) and my SSRN websi
 * **kmr: A Command to Correct Survey Weights for Unit Nonresponse using Group's Response Rates.** (with S. Morelli) [[draft]](http://erciomunoz.github.io/files/Draft.pdf) [[code]](https://github.com/erciomunoz/kmr) 
 * **Firms and Labor Earnings Inequality in Chile.** [draft available upon request]
 * **Inequality in Latin America: Learning from matched employer-employee data.** (with G. Rucci, F. Saltiel, and S. Urzua) [[draft]](http://erciomunoz.github.io/files/Inequality_in_latam.pdf)
-* **Did They Hurt Growth? A Synthetic Control Estimate of the Impact of “Bachelet’s Reforms”.** [[draft]](http://erciomunoz.github.io/files/Draft_21Jan2019.pdf) <details><summary><i>abstract</i></summary>
-<p>This paper uses the synthetic control method to estimate the short-term impact on GDP of the reforms implemented between 2014 and 2017 in Chile by the government of President Michelle Bachelet.
-I find a cumulative fall by the end of 2017 of 13% relative to the synthetic counterfactual. This result is robust to the use of a donor pool that includes economies for which primary commodities are relevant, as well as one that
-only includes OECD countries. </p>
-</details>
+* **Did They Hurt Growth? A Synthetic Control Estimate of the Impact of “Bachelet’s Reforms”.** [[draft]](http://erciomunoz.github.io/files/Draft_21Jan2019.pdf) <details><summary><i>abstract</i></summary><p>This paper uses the synthetic control method to estimate the short-term impact on GDP of the reforms implemented between 2014 and 2017 in Chile by the government of President Michelle Bachelet. I find a cumulative fall by the end of 2017 of 13% relative to the synthetic counterfactual. This result is robust to the use of a donor pool that includes economies for which primary commodities are relevant, as well as one that
+only includes OECD countries. </p></details>
 
 # Pre-Doctoral
 # Peer Reviewed:
