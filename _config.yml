@@ -148,7 +148,7 @@ encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
-# Conversion
+# Conversion (I changed markdown: kramdown to CommonMarkGhPages to allow the rendering of buttons)
 # markdown: kramdown
 markdown: CommonMarkGhPages
 highlighter: rouge
