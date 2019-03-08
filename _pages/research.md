@@ -17,7 +17,7 @@ My IDEAS website [here](https://ideas.repec.org/f/pmu357.html) and my SSRN websi
 
 * **Corruption and Electoral Performance.** (with Nuria Rodriguez-Planas)
 * **Are Budget Rigidities a Source of Fiscal Distress and a Constraint for Fiscal Consolidation?** (with Eduardo Olaberria)
-* **What Determines the Size of Public Employment? An Empirical Investigation** (with Santiago Herrera)
+* **What Determines the Size of Public Employment? An Empirical Investigation.** (with Santiago Herrera)
 * **Pre-testing for Unobserved Cluster Effects and Inference in Panel Data Sets.** (with Wim Vijverberg)
 
 # Working Papers:
@@ -26,7 +26,7 @@ My IDEAS website [here](https://ideas.repec.org/f/pmu357.html) and my SSRN websi
 * **Did They Hurt Growth? A Synthetic Control Estimate of the Impact of “Bachelet’s Reforms”.** [[draft]](http://erciomunoz.github.io/files/Draft_21Jan2019.pdf) <details> <summary> <i> abstract </i> </summary> <p> <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"> This paper uses the synthetic control method to estimate the short-term impact on GDP of the reforms implemented between 2014 and 2017 in Chile by the government of President Michelle Bachelet. I find a cumulative fall by the end of 2017 of 13% relative to the synthetic counterfactual. This result is robust to the use of a donor pool that includes economies for which primary commodities are relevant, as well as one that
 only includes OECD countries. </div> </p> </details>
 * **kmr: A Command to Correct Survey Weights for Unit Nonresponse using Group's Response Rates.** (with Salvatore Morelli) [[draft]](http://erciomunoz.github.io/files/Draft.pdf) [[code]](https://github.com/erciomunoz/kmr) <details> <summary> <i> abstract </i> </summary> <p> <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"> This article describes kmr, a Stata command to estimate a micro compliance function using group’s nonresponse rates (2007, Journal of Econometrics 136: 213-235), which can be used to correct survey weights for unit nonresponse. We illustrate the use of kmr with an empirical example using the Current Population Survey and state-level nonresponse rates. </div> </p> </details>
-* **When Reforms Backfire: The Increasing Incumbency Advantage in Chilean Mayoral Elections** [draft available upon request]
+* **When Reforms Backfire: The Increasing Incumbency Advantage in Chilean Mayoral Elections.** [draft available upon request]
 * **Firms and Labor Earnings Inequality in Chile.** [draft available upon request]
 * **Do Succesful Women Empower Other Women in Politics? Evidence from Chilean Local Elections.** (with Mariel Siravegna) [draft available upon request]
 
