@@ -19,6 +19,8 @@ My IDEAS website [here](https://ideas.repec.org/f/pmu357.html) and my SSRN websi
 * **Are Budget Rigidities a Source of Fiscal Distress and a Constraint for Fiscal Consolidation?** (with Eduardo Olaberria)
 * **What Determines the Size of Public Employment? An Empirical Investigation.** (with Santiago Herrera)
 * **Pre-testing for Unobserved Cluster Effects and Inference in Panel Data Sets.** (with Wim Vijverberg)
+* **Momentum in the NBA.** (with Jiadi Chen and Milan Thomas)
+* **Unit Nonresponse Bias in the Current Population Survey.** (with Salvatore Morelli)
 
 # Working Papers:
 
