@@ -27,7 +27,7 @@ Work Experience:
 * Inter-American Development Bank
   * Consultant at the Labor Markets Division, Mar 2016-Aug 2016
 * The World Bank
-  * Consultant at the Development Research Group, Mar 2016-Aug 2016
+  * Consultant at the Development Research Group (Human Development), Mar 2016-Aug 2016
 * Central Bank of Chile
   * Economic and financial analyst at the Research Division, Feb 2010-Aug 2014
 
