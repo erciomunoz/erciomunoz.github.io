@@ -19,7 +19,9 @@ Education:
 Work Experience:
 =====
 * The World Bank
-  * Consultant at the Macroeconomics, Trade & Investment Unit, July 2018-
+  * Consultant at the Development Research Group (Poverty and Inequality), May 2019-
+* The World Bank
+  * Consultant at the Macroeconomics, Trade & Investment Global Practice, July 2018-
 * Stone Center on Socio-Economic Inequality
   * Research associate for the Graduate Center Wealth Project, Jan 2018-
 * Inter-American Development Bank
