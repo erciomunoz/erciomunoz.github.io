@@ -23,7 +23,7 @@ Work Experience:
 * The World Bank
   * Consultant at the Macroeconomics, Trade & Investment Global Practice, Jul 2018-Jun 2019
 * Stone Center on Socio-Economic Inequality
-  * Research associate for the Graduate Center Wealth Project, Jan 2018-
+  * Research associate, Jan 2018-
 * Inter-American Development Bank
   * Consultant at the Labor Markets Division, Mar 2016-Aug 2016
 * The World Bank
